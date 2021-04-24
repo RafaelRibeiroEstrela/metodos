@@ -17,7 +17,6 @@ def carregarImagem(interpolacao, diretorio):
     interpolacao.carregarImagem()
     interpolacao.mostrarImagem()
 
-#abc
 
 def main():
 
